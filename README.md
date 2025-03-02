@@ -1,0 +1,1 @@
+Este é um sorteador de Amigo Secreto interativo, onde os participantes podem adicionar seus nomes e realizar o sorteio de forma prática e automática. O projeto é simples, intuitivo e pode ser utilizado em festas, confraternizações ou qualquer evento onde um sorteio de amigo oculto seja necessário.
